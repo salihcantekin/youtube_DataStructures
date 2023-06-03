@@ -76,7 +76,7 @@ public class MyQueue<T>
     public void Shrink()
     {
         /*
-            OLD -> 0, 0, 0, 1, 2, 3 // count = 3, head = 2, tail = 5
+            OLD -> 0, 0, 0, 1, 2, 3 // count = 3, head = 3, tail = 5
             NEW -> 1, 2, 3          // count = 3, head = 0, tail = 2
         */
 

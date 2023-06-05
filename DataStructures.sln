@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures.Trie", "Data
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures.LinkedList", "DataStructures.LinkedList\DataStructures.LinkedList.csproj", "{79237D24-7790-4E45-BF11-84CAD29B351B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.QueueStack", "DataStructures.QueueStack\DataStructures.QueueStack.csproj", "{E02F384F-E422-4B3D-A291-B241BD4C54FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures.QueueStack", "DataStructures.QueueStack\DataStructures.QueueStack.csproj", "{E02F384F-E422-4B3D-A291-B241BD4C54FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.ShortestPath", "DataStructures.ShortestPath\DataStructures.ShortestPath.csproj", "{8599B5B1-72EF-4CBB-940F-F602CA1A9682}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E02F384F-E422-4B3D-A291-B241BD4C54FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E02F384F-E422-4B3D-A291-B241BD4C54FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E02F384F-E422-4B3D-A291-B241BD4C54FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8599B5B1-72EF-4CBB-940F-F602CA1A9682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8599B5B1-72EF-4CBB-940F-F602CA1A9682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8599B5B1-72EF-4CBB-940F-F602CA1A9682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8599B5B1-72EF-4CBB-940F-F602CA1A9682}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
